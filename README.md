@@ -40,5 +40,3 @@ Additionally, I have expertise in Git, Firebase, and various tools to optimize t
 If you have any questions or are interested in collaboration, feel free to reach out via email or social media. I'm always open to discussions and sharing ideas!
 
 ---
-
-![Visitor Count](https://profile-counter.glitch.me/hoaphamduc2399/count.svg)
